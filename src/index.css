@@ -43,7 +43,7 @@ body {
 
 .linkButtons {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   padding: 23.5rem 5rem;
   top: -100px;
